@@ -1,2 +1,2 @@
 # ESPxxxx
-Arduino and EPS8266 modules
+Arduino and ESP8266 modules
